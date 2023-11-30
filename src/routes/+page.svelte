@@ -178,7 +178,6 @@
 
             }
         }
-        roll = 2
         carry_out_roll(roll)
 
     }
